@@ -1,4 +1,4 @@
-# 📊 Automated Data Analysis Project (KaroStartup Internship)
+# 📊 Automated Data Analysis Project 
 
 This project performs automated analysis of datasets using Python, AIProxy GPT models, and visualizations.
 
