@@ -43,7 +43,7 @@ This project performs automated analysis of datasets using Python, AIProxy GPT m
 3. **Run the script**:
 
 
-➡Each run will generate:
+=Each run will generate:
 - `correlation_matrix.png`
 - multiple `*_distribution.png` charts
 - dataset-specific `README.md` report
